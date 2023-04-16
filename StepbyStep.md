@@ -6,7 +6,8 @@ Jetson is not connected to nano as the toggle switch is connected to arduino or 
 
 First, let's draw our circuit from the fritzing program.
 
-x
+![CONNECTİONS](https://github.com/ElectronicEngineerr/Toggle-Switch-use-on-Jetson-Nano/blob/main/Untitled%20Sketch%202_bb.png)
+
 
 Now I write a simple code in the python compiler in jetson nano, let's learn to get 0 and 1
 
